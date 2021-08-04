@@ -1,0 +1,66 @@
+@media only screen and (max-width: 600px) {
+  .name,
+  .email,
+  .message,
+  .subject {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .parent {
+    width: 100%;
+    margin: 0px;
+    border: 5px solid rgba(0, 162, 255, 0.979);
+    border-bottom: none;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .first {
+    height: 600px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .submit {
+    margin-top: -100px;
+    border-bottom: 2px solid rgba(0, 162, 255, 0.979);
+  }
+}
+@media only screen and (max-width: 600px) {
+  .container {
+    display: inline;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .box {
+    background-color: burlywood;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .footer {
+    display: inline;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .one,
+  .two,
+  .three {
+    width: 100%;
+    height: 200px;
+    margin: 0 auto;
+    background-color: rgb(39, 38, 38);
+  }
+}
+@media only screen and (max-width: 600px) {
+  .four {
+    width: 100%;
+    height: 210px;
+    margin: 0 auto;
+    background-color: rgb(39, 38, 38);
+  }
+}
+@media only screen and (max-width: 600px) {
+  .newsletter {
+    width: 250px;
+  }
+}
